@@ -26,4 +26,14 @@ Compile with make
 
 #### Ερώτημα 1ο
 
-Από την αποτ
+Στα αποτελέσματα της προσομοίωσης με τον McPAT [Xeon - McPAT](/src/McPAT/Xeon.txt)
+
+- Τεχνολογια Τρανζίστορ : [65nm](/src/McPAT/Xeon.txt#L6)
+
+**Κατανάλωση Ισχύος**
+- Peak Power            : [134.938 W](/src/McPAT/Xeon.txt#L14)
+- Total Leakage         : [36.8319 W](/src/McPAT/Xeon.txt#L15)
+  - Subthreshold Leakage  : [35.1632 W](/src/McPAT/Xeon.txt#L17)
+  - Gate Leakage          : [1.66871 W](/src/McPAT/Xeon.txt#L19)
+- Peak Dynamic          : [98.1063 W](/src/McPAT/Xeon.txt#L16)
+  - Runtime Dynamic     : [72.9199 W](/src/McPAT/Xeon.txt#L20)
