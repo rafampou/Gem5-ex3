@@ -47,6 +47,7 @@ Compile with make
 
 - Πηγές
   - *Sedra, A.S. & Smith, K.C. (1982) Mircoelectronic Circuits, Seven Edition*
+  - *[McPAT Research](https://www.hpl.hp.com/research/mcpat/micro09.pdf)
   - *[Semiconductor Engineering](https://semiengineering.com/knowledge_centers/low-power/low-power-design/power-consumption/)*
 
 ### Πως ένα πρόγραμμα επηρεάζει την Κατανάλωση Ισχύος
@@ -76,5 +77,12 @@ Compile with make
 
 Κατανάλωση Ισχύος Επεξεργαστή | Xeon | Arm A9
 ------------------------------|------|-------
-Total leakage | [36.8319 W](/src/McPAT_output/Xeon.txt#L15) | [0.108687 W](/src/McPAT_output/Arm_A9_2GHz.txt#L15)
-Peak Dynamic  | [98.1063 W](/src/McPAT_output/Xeon.txt#L16) | [1.6332 W](/src/McPAT_output/Arm_A9_2GHz.txt#L16)
+Total leakage | [36.8319 W](/src/McPAT_output/Xeon.txt#L15) | [0.108687 W](/src/McPAT_output/Arm_A9_2Ghz.txt#L15)
+Runtime Dynamic  | [72.9199 W](/src/McPAT_output/Xeon.txt#L20) | [2.96053 W](/src/McPAT_output/Arm_A9_2Ghz.txt#L20)
+
+Μπορούμε να μελετήσουμε την απόδοση αυτή σε 2 κατηγορίες ανάλογα με την κατανάλωση, Dynamic Power και Leakage Power.
+Αναφερόμενοι στο **Dynamic Power** ο Xeon καταναλώνει περίπου 25 φορές περισσότερη ισχύ Runtime Dynamic Power, δηλαδή ισχύ κατά την διάρκεια που εκτελείτε η εφαρμογή, σε σχέση με τον ARM. Επομένως με την υπόθεση ότι ο Xeon έχει 40 φορές μεγαλύτερη υπολογιστική ισχύ η ενεργειακή αποδοτικότητα του Xeon ως προς την Δυναμική κατανάλωση Ισχύος είναι περίπου *(72.92 W/ 2.96 W=)*1.65 φορές καλύτερη.
+
+Όμως το σύστημα δεν τερματίζει μετά το πέρας του προγράμματος έτσι για να βγάλουμε συμπεράσματα για την ενεργειακή αποδοτικότητα χρειάζεται να λάβουμε υπόψιν και το Leakage Power. Αυτή η ισχύς καταναλώνεται σε όλη την διάρκεια λειτουργία του συστήματος έτσι για το Xeon είναι περίπου *(36.83 W/0.11 W=)*360 φορές μεγαλύτερη από τον Arm. Έτσι βλέπομε ότι ο Xeon καταναλώνει πολύ περισσότερο ισχύ για τον ίδιο χρόνο λειτουργίας σε σχέση με τον Α9.
+
+Επομένoς παρότι ο Xeon έχει καλύτερο Energy Efficiency κατά την εκτέλεση του προγράμματος δεν μπορεί να είναι πιο αποδοτικός από το Α9 για ένα σύστημα που δεν τερματίζει μετά την λήξη της εφαρμογής.
