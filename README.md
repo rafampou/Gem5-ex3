@@ -11,6 +11,8 @@ Clone github McPat
 ``` git clone https://github.com/kingmouf/cmcpat.git my_mcpat ```
 
 *Πιθανόν χρειάζονται τα παρακάτω πακέτα*
+- ```sudo apt install libc6-dev-i386``` για 32bit.
+  ή ```sudo apt-get install g++-multilib``` για 64bit
 - ```sudo apt install gcc-7-multilib g++-7-multilib```
 
 Compile with make
