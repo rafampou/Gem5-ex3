@@ -1,137 +1,35 @@
-(specsjeng)_McPAT | Area | Subthreshold Leakage | Gate Leakage | Runtime
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l2_size.256kB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l2_size.256kB/stats.txt
-leakage: 1.146440 W, dynamic: 0.142624 W and runtime: 0.123334 sec
-energy is 158.985419 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l2d_assoc.4.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l2d_assoc.4/stats.txt
-leakage: 1.147030 W, dynamic: 0.143376 W and runtime: 0.123230 sec
-energy is 159.016731 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1i_assoc.2.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1i_assoc.2/stats.txt
-leakage: 1.149270 W, dynamic: 0.143351 W and runtime: 0.123229 sec
-energy is 159.288393 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d.64kB_l1i.128kB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d.64kB_l1i.128kB/stats.txt
-leakage: 1.831920 W, dynamic: 0.395301 W and runtime: 0.120848 sec
-energy is 269.155203 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d.16kB_l1i.32kB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d.16kB_l1i.32kB/stats.txt
-leakage: 0.736533 W, dynamic: 0.139776 W and runtime: 0.125983 sec
-energy is 110.400037 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/cpu_clock.1GHz.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/cpu_clock.1GHz/stats.txt
-leakage: 1.147030 W, dynamic: 0.143352 W and runtime: 0.123239 sec
-energy is 159.025387 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d.32kB_l1i.64kB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d.32kB_l1i.64kB/stats.txt
-leakage: 1.147030 W, dynamic: 0.143352 W and runtime: 0.123239 sec
-energy is 159.025387 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l2d_assoc.1.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l2d_assoc.1/stats.txt
-leakage: 1.147020 W, dynamic: 0.143334 W and runtime: 0.123271 sec
-energy is 159.063228 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1i_assoc.1.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1i_assoc.1/stats.txt
-leakage: 1.147030 W, dynamic: 0.143352 W and runtime: 0.123239 sec
-energy is 159.025387 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d.32kB_l1i.32kB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d.32kB_l1i.32kB/stats.txt
-leakage: 0.744047 W, dynamic: 0.143357 W and runtime: 0.123333 sec
-energy is 109.446198 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1i_assoc.4.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1i_assoc.4/stats.txt
-leakage: 0.874172 W, dynamic: 0.143348 W and runtime: 0.123226 sec
-energy is 125.384920 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d.128kB_l1i.16kB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d.128kB_l1i.16kB/stats.txt
-leakage: 1.421420 W, dynamic: 0.503895 W and runtime: 0.119185 sec
-energy is 229.468668 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d_assoc.2.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d_assoc.2/stats.txt
-leakage: 1.147360 W, dynamic: 0.156159 W and runtime: 0.118800 sec
-energy is 154.858057 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d.128kB_l1i.128kB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d.128kB_l1i.128kB/stats.txt
-leakage: 2.113830 W, dynamic: 0.504878 W and runtime: 0.118886 sec
-energy is 311.327719 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l2_size.2MB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l2_size.2MB/stats.txt
-leakage: 1.150620 W, dynamic: 0.146748 W and runtime: 0.123228 sec
-energy is 159.872064 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d_assoc.1.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d_assoc.1/stats.txt
-leakage: 1.147030 W, dynamic: 0.143352 W and runtime: 0.123239 sec
-energy is 159.025387 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d.32kB_l1i.16kB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d.32kB_l1i.16kB/stats.txt
-leakage: 0.736533 W, dynamic: 0.143320 W and runtime: 0.123497 sec
-energy is 108.659206 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d.64kB_l1i.32kB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d.64kB_l1i.32kB/stats.txt
-leakage: 1.147030 W, dynamic: 0.395018 W and runtime: 0.120972 sec
-energy is 186.544631 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d.64kB_l1i.16kB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d.64kB_l1i.16kB/stats.txt
-leakage: 1.139510 W, dynamic: 0.394604 W and runtime: 0.121147 sec
-energy is 185.853309 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d.32kB_l1i.128kB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d.32kB_l1i.128kB/stats.txt
-leakage: 1.428940 W, dynamic: 0.143357 W and runtime: 0.123234 sec
-energy is 193.760448 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l2d_assoc.2.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l2d_assoc.2/stats.txt
-leakage: 1.147030 W, dynamic: 0.143352 W and runtime: 0.123239 sec
-energy is 159.025387 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d_assoc.4.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d_assoc.4/stats.txt
-leakage: 1.226610 W, dynamic: 0.308214 W and runtime: 0.118509 sec
-energy is 181.890457 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/cacheline.128.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/cacheline.128/stats.txt
-leakage: 1.105940 W, dynamic: 0.199836 W and runtime: 0.124304 sec
-energy is 162.313180 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d.16kB_l1i.16kB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d.16kB_l1i.16kB/stats.txt
-leakage: 0.729018 W, dynamic: 0.139749 W and runtime: 0.126144 sec
-energy is 109.589744 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l2_size.512kB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l2_size.512kB/stats.txt
-leakage: 1.147030 W, dynamic: 0.143352 W and runtime: 0.123239 sec
-energy is 159.025387 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/cacheline.64.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/cacheline.64/stats.txt
-leakage: 1.147030 W, dynamic: 0.143352 W and runtime: 0.123239 sec
-energy is 159.025387 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d.128kB_l1i.32kB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d.128kB_l1i.32kB/stats.txt
-leakage: 1.428940 W, dynamic: 0.504465 W and runtime: 0.119013 sec
-energy is 230.100329 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d.16kB_l1i.64kB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d.16kB_l1i.64kB/stats.txt
-leakage: 1.139510 W, dynamic: 0.139747 W and runtime: 0.125912 sec
-energy is 161.073807 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/cacheline.32.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/cacheline.32/stats.txt
-leakage: 0.840243 W, dynamic: 0.134912 W and runtime: 0.122532 sec
-energy is 119.487692 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d.64kB_l1i.64kB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d.64kB_l1i.64kB/stats.txt
-leakage: 1.550000 W, dynamic: 0.395282 W and runtime: 0.120854 sec
-energy is 235.095111 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d.128kB_l1i.64kB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d.128kB_l1i.64kB/stats.txt
-leakage: 1.831920 W, dynamic: 0.504864 W and runtime: 0.118890 sec
-energy is 277.820250 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l2_size.1MB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l2_size.1MB/stats.txt
-leakage: 1.148550 W, dynamic: 0.144688 W and runtime: 0.123228 sec
-energy is 159.363132 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l1d.16kB_l1i.128kB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l1d.16kB_l1i.128kB/stats.txt
-leakage: 1.421420 W, dynamic: 0.139752 W and runtime: 0.125907 sec
-energy is 196.562483 mJ
-Reading simulation time from: ./Benchmarks_results_McPAT/(specsjeng)_McPAT/l2_size.4MB.txt
-Reading simulation time from: ./Benchmarks_results/specsjeng/l2_size.4MB/stats.txt
-leakage: 1.155350 W, dynamic: 0.149005 W and runtime: 0.123228 sec
-energy is 160.733058 mJ
+(specsjeng)_McPAT | Leakage | Dynamci | Runtime |
+l2_size.256kB |  1.146440 W | 0.142624 W | 0.123334 sec | 158.985419 mJ
+l2d_assoc.4 |  1.147030 W | 0.143376 W | 0.123230 sec | 159.016731 mJ
+l1i_assoc.2 |  1.149270 W | 0.143351 W | 0.123229 sec | 159.288393 mJ
+l1d.64kB_l1i.128kB |  1.831920 W | 0.395301 W | 0.120848 sec | 269.155203 mJ
+l1d.16kB_l1i.32kB |  0.736533 W | 0.139776 W | 0.125983 sec | 110.400037 mJ
+cpu_clock.1GHz |  1.147030 W | 0.143352 W | 0.123239 sec | 159.025387 mJ
+l1d.32kB_l1i.64kB |  1.147030 W | 0.143352 W | 0.123239 sec | 159.025387 mJ
+l2d_assoc.1 |  1.147020 W | 0.143334 W | 0.123271 sec | 159.063228 mJ
+l1i_assoc.1 |  1.147030 W | 0.143352 W | 0.123239 sec | 159.025387 mJ
+l1d.32kB_l1i.32kB |  0.744047 W | 0.143357 W | 0.123333 sec | 109.446198 mJ
+l1i_assoc.4 |  0.874172 W | 0.143348 W | 0.123226 sec | 125.384920 mJ
+l1d.128kB_l1i.16kB |  1.421420 W | 0.503895 W | 0.119185 sec | 229.468668 mJ
+l1d_assoc.2 |  1.147360 W | 0.156159 W | 0.118800 sec | 154.858057 mJ
+l1d.128kB_l1i.128kB |  2.113830 W | 0.504878 W | 0.118886 sec | 311.327719 mJ
+l2_size.2MB |  1.150620 W | 0.146748 W | 0.123228 sec | 159.872064 mJ
+l1d_assoc.1 |  1.147030 W | 0.143352 W | 0.123239 sec | 159.025387 mJ
+l1d.32kB_l1i.16kB |  0.736533 W | 0.143320 W | 0.123497 sec | 108.659206 mJ
+l1d.64kB_l1i.32kB |  1.147030 W | 0.395018 W | 0.120972 sec | 186.544631 mJ
+l1d.64kB_l1i.16kB |  1.139510 W | 0.394604 W | 0.121147 sec | 185.853309 mJ
+l1d.32kB_l1i.128kB |  1.428940 W | 0.143357 W | 0.123234 sec | 193.760448 mJ
+l2d_assoc.2 |  1.147030 W | 0.143352 W | 0.123239 sec | 159.025387 mJ
+l1d_assoc.4 |  1.226610 W | 0.308214 W | 0.118509 sec | 181.890457 mJ
+cacheline.128 |  1.105940 W | 0.199836 W | 0.124304 sec | 162.313180 mJ
+l1d.16kB_l1i.16kB |  0.729018 W | 0.139749 W | 0.126144 sec | 109.589744 mJ
+l2_size.512kB |  1.147030 W | 0.143352 W | 0.123239 sec | 159.025387 mJ
+cacheline.64 |  1.147030 W | 0.143352 W | 0.123239 sec | 159.025387 mJ
+l1d.128kB_l1i.32kB |  1.428940 W | 0.504465 W | 0.119013 sec | 230.100329 mJ
+l1d.16kB_l1i.64kB |  1.139510 W | 0.139747 W | 0.125912 sec | 161.073807 mJ
+cacheline.32 |  0.840243 W | 0.134912 W | 0.122532 sec | 119.487692 mJ
+l1d.64kB_l1i.64kB |  1.550000 W | 0.395282 W | 0.120854 sec | 235.095111 mJ
+l1d.128kB_l1i.64kB |  1.831920 W | 0.504864 W | 0.118890 sec | 277.820250 mJ
+l2_size.1MB |  1.148550 W | 0.144688 W | 0.123228 sec | 159.363132 mJ
+l1d.16kB_l1i.128kB |  1.421420 W | 0.139752 W | 0.125907 sec | 196.562483 mJ
+l2_size.4MB |  1.155350 W | 0.149005 W | 0.123228 sec | 160.733058 mJ
