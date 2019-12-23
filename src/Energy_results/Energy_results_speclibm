@@ -1,0 +1,137 @@
+(speclibm)_McPAT | Area | Subthreshold Leakage | Gate Leakage | Runtime
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l2_size.256kB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l2_size.256kB/stats.txt
+leakage: 1.146440 W, dynamic: 0.113189 W and runtime: 0.704242 sec
+energy is 887.083646 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l2d_assoc.4.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l2d_assoc.4/stats.txt
+leakage: 1.147030 W, dynamic: 0.114356 W and runtime: 0.704237 sec
+energy is 888.314692 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1i_assoc.2.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1i_assoc.2/stats.txt
+leakage: 1.149270 W, dynamic: 0.114303 W and runtime: 0.704222 sec
+energy is 889.835905 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d.64kB_l1i.128kB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d.64kB_l1i.128kB/stats.txt
+leakage: 1.831920 W, dynamic: 0.211359 W and runtime: 0.704177 sec
+energy is 1438.830076 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d.16kB_l1i.32kB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d.16kB_l1i.32kB/stats.txt
+leakage: 0.736533 W, dynamic: 0.111268 W and runtime: 0.704675 sec
+energy is 597.424170 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/cpu_clock.1GHz.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/cpu_clock.1GHz/stats.txt
+leakage: 1.147030 W, dynamic: 0.114302 W and runtime: 0.704224 sec
+energy is 888.260266 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d.32kB_l1i.64kB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d.32kB_l1i.64kB/stats.txt
+leakage: 1.147030 W, dynamic: 0.114302 W and runtime: 0.704224 sec
+energy is 888.260266 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l2d_assoc.1.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l2d_assoc.1/stats.txt
+leakage: 1.147020 W, dynamic: 0.114287 W and runtime: 0.704233 sec
+energy is 888.254013 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1i_assoc.1.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1i_assoc.1/stats.txt
+leakage: 1.147030 W, dynamic: 0.114302 W and runtime: 0.704224 sec
+energy is 888.260266 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d.32kB_l1i.32kB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d.32kB_l1i.32kB/stats.txt
+leakage: 0.744047 W, dynamic: 0.114302 W and runtime: 0.704227 sec
+energy is 604.472541 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1i_assoc.4.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1i_assoc.4/stats.txt
+leakage: 0.874172 W, dynamic: 0.114302 W and runtime: 0.704226 sec
+energy is 696.109091 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d.128kB_l1i.16kB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d.128kB_l1i.16kB/stats.txt
+leakage: 1.421420 W, dynamic: 0.255718 W and runtime: 0.704149 sec
+energy is 1180.955046 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d_assoc.2.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d_assoc.2/stats.txt
+leakage: 1.147360 W, dynamic: 0.116259 W and runtime: 0.704128 sec
+energy is 889.749519 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d.128kB_l1i.128kB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d.128kB_l1i.128kB/stats.txt
+leakage: 2.113830 W, dynamic: 0.255719 W and runtime: 0.704145 sec
+energy is 1668.506081 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l2_size.2MB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l2_size.2MB/stats.txt
+leakage: 1.150620 W, dynamic: 0.121257 W and runtime: 0.704112 sec
+energy is 895.543858 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d_assoc.1.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d_assoc.1/stats.txt
+leakage: 1.147030 W, dynamic: 0.114302 W and runtime: 0.704224 sec
+energy is 888.260266 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d.32kB_l1i.16kB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d.32kB_l1i.16kB/stats.txt
+leakage: 0.736533 W, dynamic: 0.114302 W and runtime: 0.704230 sec
+energy is 599.183532 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d.64kB_l1i.32kB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d.64kB_l1i.32kB/stats.txt
+leakage: 1.147030 W, dynamic: 0.211358 W and runtime: 0.704177 sec
+energy is 956.545587 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d.64kB_l1i.16kB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d.64kB_l1i.16kB/stats.txt
+leakage: 1.139510 W, dynamic: 0.211357 W and runtime: 0.704181 sec
+energy is 951.254875 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d.32kB_l1i.128kB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d.32kB_l1i.128kB/stats.txt
+leakage: 1.428940 W, dynamic: 0.114302 W and runtime: 0.704224 sec
+energy is 1086.788054 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l2d_assoc.2.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l2d_assoc.2/stats.txt
+leakage: 1.147030 W, dynamic: 0.114302 W and runtime: 0.704224 sec
+energy is 888.260266 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d_assoc.4.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d_assoc.4/stats.txt
+leakage: 1.226610 W, dynamic: 0.210316 W and runtime: 0.704128 sec
+energy is 1011.779831 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/cacheline.128.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/cacheline.128/stats.txt
+leakage: 1.105940 W, dynamic: 0.185393 W and runtime: 0.497821 sec
+energy is 642.852685 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d.16kB_l1i.16kB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d.16kB_l1i.16kB/stats.txt
+leakage: 0.729018 W, dynamic: 0.111309 W and runtime: 0.704356 sec
+energy is 591.889364 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l2_size.512kB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l2_size.512kB/stats.txt
+leakage: 1.147030 W, dynamic: 0.114302 W and runtime: 0.704224 sec
+energy is 888.260266 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/cacheline.64.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/cacheline.64/stats.txt
+leakage: 1.147030 W, dynamic: 0.114302 W and runtime: 0.704224 sec
+energy is 888.260266 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d.128kB_l1i.32kB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d.128kB_l1i.32kB/stats.txt
+leakage: 1.428940 W, dynamic: 0.255716 W and runtime: 0.704152 sec
+energy is 1186.253892 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d.16kB_l1i.64kB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d.16kB_l1i.64kB/stats.txt
+leakage: 1.139510 W, dynamic: 0.111269 W and runtime: 0.704673 sec
+energy is 881.390190 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/cacheline.32.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/cacheline.32/stats.txt
+leakage: 0.840243 W, dynamic: 0.095983 W and runtime: 1.166041 sec
+energy is 1091.677668 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d.64kB_l1i.64kB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d.64kB_l1i.64kB/stats.txt
+leakage: 1.550000 W, dynamic: 0.211358 W and runtime: 0.704178 sec
+energy is 1240.309554 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d.128kB_l1i.64kB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d.128kB_l1i.64kB/stats.txt
+leakage: 1.831920 W, dynamic: 0.255718 W and runtime: 0.704148 sec
+energy is 1470.006122 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l2_size.1MB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l2_size.1MB/stats.txt
+leakage: 1.148550 W, dynamic: 0.117018 W and runtime: 0.704193 sec
+energy is 891.204127 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l1d.16kB_l1i.128kB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l1d.16kB_l1i.128kB/stats.txt
+leakage: 1.421420 W, dynamic: 0.111310 W and runtime: 0.704350 sec
+energy is 1079.578375 mJ
+Reading simulation time from: ./Benchmarks_results_McPAT/(speclibm)_McPAT/l2_size.4MB.txt
+Reading simulation time from: ./Benchmarks_results/speclibm/l2_size.4MB/stats.txt
+leakage: 1.155350 W, dynamic: 0.125586 W and runtime: 0.703950 sec
+energy is 901.714897 mJ
